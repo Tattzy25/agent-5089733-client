@@ -1,7 +1,7 @@
 import { Agent, type AgentNamespace, routeAgentRequest } from "agents";
 
 type Env = {
-	MyAgent: AgentNamespace<MyAgent>;
+	MyAgent: AgentNamespace<agent5089733>;
 	HOST: string;
 };
 
